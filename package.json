@@ -1,0 +1,23 @@
+{
+  "name": "jest-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z4cope/jest-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z4cope/jest-playground/issues"
+  },
+  "homepage": "https://github.com/z4cope/jest-playground#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
